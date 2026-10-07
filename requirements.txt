@@ -1,0 +1,5 @@
+Scrapy==2.13.3
+selenium==4.47.0
+undetected-chromedriver==3.5.5
+webdriver-manager==4.0.2
+setuptools

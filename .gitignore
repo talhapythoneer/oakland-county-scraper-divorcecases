@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Scraped data (personal information, never commit)
+*.csv
+
+# Debug output
+*.png
+*.html
+*.log
